@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pirematur3
+- 👋 Hi, I’m Özkan
 - 👀 I’m interested in android and backend development
 - 🌱 I’m currently learning c#, java, kotlin and jetpack components
 - 💞️ I’m looking to collaborate on ...
