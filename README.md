@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Özkan
 - 👀 I’m interested in android and backend development
-- 🌱 I’m currently learning c#, java, kotlin and jetpack components
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c#, .net, kotlin and java
 - 📫 How to reach me ...
 
 <!---
